@@ -24,7 +24,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceFragment;
 import androidx.preference.SwitchPreference;
 
-import org.lineageos.internal.util.ScreenType;
+import com.android.internal.util.du.ScreenType;
 
 public class TouchscreenGestureSettings extends PreferenceFragment {
 
